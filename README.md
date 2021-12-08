@@ -1,0 +1,2 @@
+# learningapp
+In this project, we made a simple desktop app for learning new dataset to get a suitable machine learning model. This model will be used for face detection and face identification. We used transfer learning of VGG16 as base model. In this apps we can choose the dataset from our pc directory and manually add a label to it. We can add as many label as we want. The python library used for this project are kivy, keras, opencv, scikit-learn, PIL, numpy, and MTCNN. Here is the interface of the apps. 
